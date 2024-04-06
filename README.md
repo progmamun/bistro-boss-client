@@ -1,5 +1,7 @@
 # Client Side: Bistro Boss
 
+### React Bun Vite TypeScript + SWC
+
 ---
 
 ### Package:
